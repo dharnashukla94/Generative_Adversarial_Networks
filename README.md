@@ -1,4 +1,4 @@
-This repository contains impemenations of Variational Autoencoders(VAE) and various Generative Adversarial Network(GAN)
+This repository contains impemenations of Variational Autoencoders(VAE) and various Generative Adversarial Network(GAN).
 
 ## Variational Autoencoders:
 Variational Autoencoders (VAE) model trained on MNIST and CIFAR10 datasets. The two key hyper-parameters, latent space dimension as well as model complexity were investigated. In the context of VAE, the model complexity is defined as the intermediate dimension representing the dimension of the dense layer receiving the input.
